@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+table{
+  margin: 100 auto;
+  width: 50%;
+  clear: both;
+  border-collapse: collapse;
+  table-layout: fixed;
+  word-wrap:break-word;
+}

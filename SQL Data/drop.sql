@@ -1,0 +1,13 @@
+drop table assignment;
+drop table evaluation;
+drop table submission;
+drop table question;
+drop table exam;
+drop table TA;
+drop table takes;
+drop table student;
+drop table teaches;
+drop table section;
+drop table instructor;
+drop table course;
+drop table department;
